@@ -1,4 +1,4 @@
-```markdown
+
 # Netflix UI Clone
 
 This project is a **clone of the Netflix homepage user interface (UI)**, developed using **HTML** and **CSS**. The project is purely for **educational and practice purposes**, demonstrating my skills in front-end development.
@@ -80,17 +80,5 @@ Feel free to connect with me for any questions, suggestions, or collaborations:
 
 ## License
 This project is licensed under the [MIT License](LICENSE), which allows for free use and modification while giving credit to the author.
-```
 
----
-
-### Steps to Add This README:
-1. Create a file named `README.md` in the root of your project folder.
-2. Copy and paste the above content into the file.
-3. Save and commit the file using:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push
-   ```
 
